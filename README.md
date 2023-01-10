@@ -2,6 +2,6 @@
 Site da tars
 
 ## TODO 
-- Decidir se sera uma pagina dinamica
-- Cobrar textos e imagens - done
-- perguntar quantas paginas serao
+- Texto do site no drive
+- Cores do site no github
+- Remover arquivos antes de dar commit
