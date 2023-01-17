@@ -477,6 +477,12 @@ h6 {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
+.typedEffect{
+  color: rgba(255, 255, 255, 0.8);
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+
 @media (min-width: 1200px) {
   #hero {
     background-attachment: fixed;
