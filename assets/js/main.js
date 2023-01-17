@@ -37,10 +37,10 @@
     new Typed('.typedEffect', {
       strings: typed_strings,
       loop: true,
-      typeSpeed: 50,
-      backSpeed: 10,
+      typeSpeed: 70,
+      backSpeed: 30,
       backDelay: 1500,
-      showCursor: false,
+      showCursor: true,
     });
   }
 
