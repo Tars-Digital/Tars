@@ -2,7 +2,5 @@
 Site da tars
 
 ## TODO 
-- Alterar para a nova paleta de cores - done
-- Buscar novos svgs, com as cores correspondentes - done
-- finalizar texto do drive
--testar azure
+- Alterar stats | Horas de suporte 1200 | Funcionarios 6 | Projetos - 50
+- Link do instagram
